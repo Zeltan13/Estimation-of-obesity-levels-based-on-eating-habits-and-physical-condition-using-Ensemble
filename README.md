@@ -22,8 +22,8 @@ The dataset used is "Estimation of Obesity Levels Based On Eating Habits and Phy
 
 Install the required libraries using pip:
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+  ```bash
+  pip install pandas numpy matplotlib seaborn scikit-learn
 
 Data Preprocessing
 Load the Data:
